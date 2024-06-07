@@ -9,7 +9,7 @@ const App = () => {
 return (
 <div >
 
-<h2>Books Champion App</h2>
+<h2></h2>
 </div>
 );
 }
