@@ -48,6 +48,7 @@ React agiliza el desarrollo y permite escribir código más limpio, legible y f�
 Ventajas de React
 
 SPA (Single Page Applications): Las aplicaciones de una sola página cargan un solo documento HTML y manejan la navegación internamente, proporcionando una experiencia de usuario fluida.
+
 Componentes reutilizables: React permite crear componentes reutilizables, lo que mejora la modularidad y mantenibilidad del código.
 React vs Angular vs Vue
 React
